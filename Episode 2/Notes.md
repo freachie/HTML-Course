@@ -16,5 +16,12 @@
   - ### `Title tag` : <font size=3>The title must be text-only, and it is shown in the browser's title bar or in the page's tab. It displays a title for the page in search engine-results & provides a title for the page when it is added to favorites. title doesn't override if there are multiple title in the page.</font>
 
   - ### `Style tag` : <font size=3>The style tag is used to define style rules at a page-level. These rules tell a browser how to present the document.</font>
+
+  - ###  `Validate your HTML Code` : <font size=3>As W3C is the only source of truth for HTML guidelines. So we will be validating the HTML code through W3C validator.</font>
+    ```
+    Please visit this link : https://validator.w3.org/#validate_by_input
+
+    And paste your HTML code and validate it.
+    ```
   
 </details>
