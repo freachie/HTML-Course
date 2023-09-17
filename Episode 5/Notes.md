@@ -28,6 +28,7 @@
       <meta http-equiv = "refresh" content="1">
       <meta http-equiv = "refresh" content = "5; url = https://www.google.co.in" />
       <meta http-equiv = "Content-Type" content = "text/html; charset = UTF-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
     ```
   
 </details>
